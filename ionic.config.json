@@ -1,7 +1,8 @@
 {
   "name": "Photo",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
